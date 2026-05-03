@@ -1,0 +1,10 @@
+City,State,Year,Population_Lakh,Literacy,Internet_Users,Total_Cases,Crime_Rate,Cyber_Crime,Women_Crime,Murders,Risk_Level,Lat,Lon
+Mumbai,Maharashtra,2023,124,89.7,95,71200,535,6100,4200,138,High,19.0760,72.8777
+Pune,Maharashtra,2023,74,91.2,48,24100,295,2700,1800,49,Low,18.5204,73.8567
+Nagpur,Maharashtra,2023,31,90.1,16,19800,780,1300,950,68,Medium,21.1458,79.0882
+Thane,Maharashtra,2023,36,88.5,20,18900,430,1100,1200,42,Medium,19.2183,72.9781
+Nashik,Maharashtra,2023,22,86.4,10,14500,370,760,880,35,Medium,19.9975,73.7898
+Chandrapur,Maharashtra,2023,8,82.5,3,9400,310,260,420,29,Low,19.9615,79.2961
+Yavatmal,Maharashtra,2023,7,80.2,2,7100,250,180,310,18,Low,20.3899,78.1307
+Gadchiroli,Maharashtra,2023,5,78.5,1,6200,230,140,220,16,Low,20.1809,80.0030
+Ratnagiri,Maharashtra,2023,6,84.7,2,5400,210,110,190,14,Low,16.9902,73.3120

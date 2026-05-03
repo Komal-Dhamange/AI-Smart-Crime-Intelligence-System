@@ -1,0 +1,7 @@
+City,Year,Total_Cases,Crime_Rate,Murders,Rape_Cases,Risk_Level
+Mumbai,2022,69289,520.0,135,370,High
+Pune,2022,23000,280.7,48,305,Low
+Nagpur,2022,19167,767.3,65,115,Medium
+Thane,2022,18000,410.0,40,120,Medium
+Nashik,2022,14000,360.0,32,90,Medium
+Chandrapur,2022,9200,300.0,28,40,Low
