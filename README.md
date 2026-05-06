@@ -116,8 +116,9 @@ python app.py
 
 📸 Screenshots
 
-Add your project screenshots here
-
+Screenshot 2026-05-06 210712.png
+Screenshot 2026-05-06 210803.png
+Screenshot 2026-05-06 210828.png
 ---
 
 🔮 Future Enhancements
